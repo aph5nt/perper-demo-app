@@ -1,6 +1,3 @@
-### before we start
-- sync perper submodule
-
 ### how to start perper fabric ?
 - run docker-compose.yml
 
